@@ -1,0 +1,15 @@
+global-styling:
+  css:
+    theme:
+      css/styles.css: {}
+
+d8bs-scripts:
+  js:
+    js/scripts.js: {}
+
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once
